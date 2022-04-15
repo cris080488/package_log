@@ -10,6 +10,6 @@ setup(
     author_email="crisosilva88@gmail.com",
     description="",
     long_description="",
-    install_requires=requirements,
+    install_requires=['os', 'datetime'],
     python_requires=">=3.8",
 )
