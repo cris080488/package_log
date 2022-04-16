@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 setup(
     name="log_files",
-    version="0.0.1",
+    version="0.0.3",
     author="cristiano",
     author_email="crisosilva88@gmail.com",
     description="",
